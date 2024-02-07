@@ -1,0 +1,33 @@
+@media (width >768px) {
+   .photo_shadow {
+      display: none;
+   }
+
+   .card {
+      padding-top: 5%;
+      padding-left: 40%;
+   }
+
+   .arrows {
+      margin-left: 70px;
+   }
+
+   .photo {
+      display: none;
+   }
+
+   .rspnsv_img {
+      display: block;
+      position: absolute;
+      left: 17.64%;
+      width: 600px;
+   }
+
+   .rspnsv_shadow {
+      display: block;
+      position: absolute;
+      left: 17.65%;
+      top: 10%;
+      width: 600px;
+   }
+}
